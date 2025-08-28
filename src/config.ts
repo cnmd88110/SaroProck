@@ -3,8 +3,8 @@
 export const ADMIN_USER = {
   nickname: "EveSunMaple",
   email: "evesunmaple@outlook.com",
-  website: "https://www.saroprock.com",
-  avatar: "https://www.saroprock.com/avatar.webp",
+  website: "https://qo.pcdn.fun",
+  avatar: "https://qo.pcdn.fun/avatar.webp",
 };
 
 // 你不希望用户使用的名称与邮箱
